@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author redes 2/3/2022
+ * @author redes 3/3/2022
  */
 /**/
 public class Calculadora {

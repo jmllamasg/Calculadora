@@ -7,7 +7,7 @@ package calculadora;
 /* cambio para subir a GitHub */
 /**
  *
- * @author redes 2/3/2022
+ * @author redes 2/3/2022  jksdf hsjfdh jkdfhj
  */
 /**/
 public class Calculadora {

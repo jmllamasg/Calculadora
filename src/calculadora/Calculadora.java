@@ -4,10 +4,9 @@
  * and open the template in the editor.
  */
 package calculadora;
-/* cambio para subir a GitHub */
 /**
  *
- * @author redes 2/3/2022  jksdf hsjfdh jkdfhj
+ * @author redes 2/3/2022
  */
 /**/
 public class Calculadora {
